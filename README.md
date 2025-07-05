@@ -1,4 +1,4 @@
-Project : mohdamed kharbouche
+Project : mohadmed kharbouche
 
 This is a modern web application for a pizza ordering chatbot interface, built with React, TypeScript, Vite, and Tailwind CSS.
 
